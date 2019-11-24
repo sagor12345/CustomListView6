@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Team information</string>
+
+    <string name="shamim">Md.Shamim Hossain\nEmail:shamim.olmg@gmail.com\nPhone:01744165013</string>
+
+    <string name="Md_AlAmin">Md.Al-Amin\nEmail:al.amin.olmg@gmail.com\nPhone:01946296059</string>
+
+    <string name="Sudipto_Roy_Arnob">Sudipto Roy Arnob\nEmail:arnabsid068@gmail.com\nPhone:01763839959</string>
+
+    <string name="Md_Ahasan_habib">Md.Ahasan habib\nEmail:ahasanhabib.olmg@gmail.com\nPhone:01931958486</string>
+
+    <string name="Md_Abdullah">Md. Abdullah\nEmail:abdullah.olmg@gmail.com</string>
+
+    <string name="Md_Farhad_Hossain">Md Farhad Hossain\nEmail:fuyad.olmg@gmail.com\nPhone:01721077860</string>
+
+    <string name="Sadiqur_Rahman">Sadiqur Rahman\nEmail:saadi.olmg@gmail.com\nPhone:01727655653</string>
+
+    <string name="Jahanara_Fardoush">Sadiqur Rahman\nEmail:fardoushjahanara@gmail.com\nPhone:01923134484</string>
+
+
+
+</resources>
